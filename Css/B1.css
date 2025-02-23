@@ -29,9 +29,9 @@ body
 
 .main-btn
 {
-    background-color: var(--buttonColor) ;
+    background-color: var(--buttonColor)  ;
     color: var(--textColor) ;
-    padding: 0.5rem 1rem ;
+ 
     font-weight: 500;
 }   
  .main-btn:hover
